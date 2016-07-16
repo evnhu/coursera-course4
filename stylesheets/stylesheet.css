@@ -10,8 +10,8 @@ body{
 }
 
 h1{
-	font-family: "AR Destine", Helvetica, sans-serif;
-	font-size: 64px;
+	font-family: "Courier", Helvetica, sans-serif;
+	font-size: 80px;
 	color: #00aaaa;
 	font-weight: bold;
 	text-align: center
@@ -34,7 +34,7 @@ h1{
 }
 
 section{
-	font-family: "Arial", Helvetica, sans-serif;
+	font-family: "Courier", Helvetica, sans-serif;
 	font-size: 20px;
 	border: 1px solid white;
 	color: white;
@@ -62,7 +62,7 @@ section{
 
 
 p{
-	font-family: "Arial", Helvetica, sans-serif;
+	font-family: "Courier", Helvetica, sans-serif;
 	position: absolute;
 	top: 50px;
 	margin: 7.5px;
