@@ -6,17 +6,16 @@
 }
 
 body{
-	background-color: blue;
+	background-color: white;
 }
 
 h1{
 	font-family: "Courier", Helvetica, sans-serif;
 	font-size: 80px;
-	color: #00aaaa;
+	color: #000000;
 	font-weight: bold;
 	text-align: center
 }
-
 
 .row {
      width: 100%;
@@ -50,16 +49,12 @@ section{
 }
 
 .title2{
-	background-color: #558800;
+	background-color: #ff0000;
 }
-
 
 .title3{
-	background-color: #005588;
+	background-color: #ff0000;
 }
-
-
-
 
 p{
 	font-family: "Courier", Helvetica, sans-serif;
@@ -68,11 +63,6 @@ p{
 	margin: 7.5px;
 	color: white;
 }
-
-
-
-
-
 
 @media (min-width: 992px) {
 
